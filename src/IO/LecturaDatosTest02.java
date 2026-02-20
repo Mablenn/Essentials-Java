@@ -1,7 +1,7 @@
 package EntradaSalida;
 
 /*
-    Este ejemplo lee un flujo de datos a través de un archivo
+    Este ejemplo lee un flujo de datos a través de un archivo de texto
     y a continuación muestra los datos por pantalla.
 */
 
