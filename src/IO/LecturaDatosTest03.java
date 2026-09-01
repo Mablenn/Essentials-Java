@@ -1,4 +1,7 @@
-
+/*
+    Este ejemplo lee un flujo de entrada de texto de teclado.
+    Es decir, muestra cada línea escrita por teclado
+*/
 package EntradaSalida;
 
 import java.io.BufferedReader;
